@@ -1,6 +1,7 @@
 # Los_Angels_Crime_Dataset_2020_Exploratory_Data_Analysis
-![360_F_312695758_6vTfVYCRbqIUX8WlxjF0Syb03dJbvk6r](https://github.com/Vaibhav-Xo/Los_Angels_Crime_Dataset_2020__Exploratory_Data_Analysis/assets/172389348/c2ca2526-4555-4e17-af62-4130994d559d)
 
+![360_F_312695758_6vTfVYCRbqIUX8WlxjF0Syb03dJbvk6r](https://github.com/Vaibhav-Xo/Los_Angels_Crime_Dataset_2020__Exploratory_Data_Analysis/assets/172389348/c2ca2526-4555-4e17-af62-4130994d559d)
+### Colab Link: https://colab.research.google.com/drive/1Fk8IJz_x1IqUG-dQN1bQaTjvGb49R5fb?usp=sharing
 
 # Project Objective
 The objective of this project is to conduct a comprehensive exploratory data analysis (EDA) of Los Angeles crime data. By leveraging advanced data visualization techniques and statistical analysis, I aim to uncover patterns, trends, and insights that can help public safety strategies.
