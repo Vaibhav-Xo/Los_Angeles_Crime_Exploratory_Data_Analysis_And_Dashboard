@@ -1,15 +1,21 @@
-# Los_Angels_Crime_Dataset_2020_Exploratory_Data_Analysis
+# Los_Angels_Crime_Dataset_2020_Exploratory_Data_Analysis_And_Dashboard
 
 ![360_F_312695758_6vTfVYCRbqIUX8WlxjF0Syb03dJbvk6r](https://github.com/Vaibhav-Xo/Los_Angels_Crime_Dataset_2020__Exploratory_Data_Analysis/assets/172389348/c2ca2526-4555-4e17-af62-4130994d559d)
 ### Colab Link: https://colab.research.google.com/drive/1Fk8IJz_x1IqUG-dQN1bQaTjvGb49R5fb?usp=sharing
+### Dashboard(.pbix) Link: https://drive.google.com/file/d/1UV58AMlzUd8glkb-q7jv8LuXZ2R6ppu8/view?usp=sharing 
 
-# Project Objective
+
+## Dashboard:
+![Screenshot 2024-07-05 151518](https://github.com/Vaibhav-Xo/Los_Angels_Crime_Dataset_2020__Exploratory_Data_Analysis/assets/172389348/403ad71e-aebf-4a14-8ead-c168366e1ecb)
+
+
+## Project Objective
 The objective of this project is to conduct a comprehensive exploratory data analysis (EDA) of Los Angeles crime data. By leveraging advanced data visualization techniques and statistical analysis, I aim to uncover patterns, trends, and insights that can help public safety strategies.
 
-# About Dataset
+## About Dataset
 The dataset consist of 499 rows and 13 columns which include likes of DR_NO[Data Record Number], Date_Rptd, Date_Occ, Area_Name, Crm_Cd(Crime Code), Crm_Cd_Desc(Crime Code Description), Vict_Age, Vict_Sex, Premis_Desc(Premise Description), Status, Loaction, LAT, LAN.  
 
-# Tools And Libraries Used
+## Tools And Libraries Used
 * Google Colab
 * Pandas
 * Numpy
@@ -17,33 +23,34 @@ The dataset consist of 499 rows and 13 columns which include likes of DR_NO[Data
 * Seaborn 
 * Plotly
 * Folium
+* Power Bi
 
-# Steps Performed 
-## 1] Dataset Exploration 
+## Steps Performed 
+### 1] Dataset Exploration 
 * Loading CSV 
 * Checking Shape of Dataset
 * Checking Column Datatypes
 * Checking Null Values
 * Identifying Outliers
 
-## 2] Data Preprocessing
+### 2] Data Preprocessing
 * Filling Null Values
 * Creating New Columns [Month_Rptd,Year_Rptd,Month_Occ,Year_Occ]
 * Checking Unique values in Columns
 * Creating new categories for analysis purpose by clubbing existing values in column 
 * Deleting irrelevent columns for analysis
 
-## 3] Data visualization
+### 3] Data visualization
 ### Univariate Analysis 
 * Drawing insights by checking distribution for each column at a time using charts like: [Countplot, Histogram, Piechart]
 
-### Bivariate Analysis
+#### Bivariate Analysis
 * Drawing insights by checking trends and relation between two columns simultaneously using charts like: [Boxplot, Heatmaps, Scatterplot, LinePlot]
 
-### Spatial Analysis
+#### Spatial Analysis
 * Plotting Map to visualize hotspots of crime.
 
-# Insights Drawn From Analysis
+## Insights Drawn From Analysis
 * 1] Crime Hostpots of LA
 * 2] Top Occuring Crimes in LA
 * 3] Distribution of Victim based on their age 
@@ -65,7 +72,7 @@ The dataset consist of 499 rows and 13 columns which include likes of DR_NO[Data
 * 19] Crime Reported over the months for different gender in Los Angels
 * 20] Spatial View of LA
 
-# Conclusion 
+## Conclusion 
 * 1] Central Region of LA is most dangerous and active when comes to crime 
 * 2] Theft is the top Occuring crime of LA
 * 3] Majority of the victims where in their 30s and where Males
