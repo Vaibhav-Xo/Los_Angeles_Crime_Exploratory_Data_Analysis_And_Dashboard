@@ -2,7 +2,8 @@
 
 ![360_F_312695758_6vTfVYCRbqIUX8WlxjF0Syb03dJbvk6r](https://github.com/Vaibhav-Xo/Los_Angels_Crime_Dataset_2020__Exploratory_Data_Analysis/assets/172389348/c2ca2526-4555-4e17-af62-4130994d559d)
 ### Colab Link: https://colab.research.google.com/drive/1Fk8IJz_x1IqUG-dQN1bQaTjvGb49R5fb?usp=sharing
-### Dashboard(.pbix) Link: https://drive.google.com/file/d/1UV58AMlzUd8glkb-q7jv8LuXZ2R6ppu8/view?usp=sharing 
+### Dashboard(.pbix) Link: https://drive.google.com/file/d/1UV58AMlzUd8glkb-q7jv8LuXZ2R6ppu8/view?usp=sharing
+#### Note: As the dashboard file size is large for github, I have uploded it on drive where you can download the file and view the dynamic dashboard 
 
 
 ## Dashboard:
