@@ -1,4 +1,4 @@
-# Los_Angels_Crime_Exploratory_Data_Analysis_And_Dashboard
+# Los_Angeles_Crime_Exploratory_Data_Analysis_And_Dashboard
 
 ![360_F_312695758_6vTfVYCRbqIUX8WlxjF0Syb03dJbvk6r](https://github.com/Vaibhav-Xo/Los_Angels_Crime_Dataset_2020__Exploratory_Data_Analysis/assets/172389348/c2ca2526-4555-4e17-af62-4130994d559d)
 ### Colab Link: <a href="https://colab.research.google.com/drive/1Fk8IJz_x1IqUG-dQN1bQaTjvGb49R5fb?usp=sharing">View_Me</a>
