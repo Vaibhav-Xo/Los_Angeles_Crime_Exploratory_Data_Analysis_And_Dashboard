@@ -7,7 +7,7 @@
 
 
 ## Dashboard:
-![Screenshot 2024-07-05 151518](https://github.com/Vaibhav-Xo/Los_Angels_Crime_Dataset_2020__Exploratory_Data_Analysis/assets/172389348/403ad71e-aebf-4a14-8ead-c168366e1ecb)
+![Screenshot 2024-07-06 180405](https://github.com/Vaibhav-Xo/Los_Angeles_Crime_Exploratory_Data_Analysis_And_Dashboard/assets/172389348/ddcc5001-6d39-4324-8956-a5760f3be373)
 
 
 ## Project Objective
